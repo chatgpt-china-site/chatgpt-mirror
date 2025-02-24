@@ -1,7 +1,7 @@
 # ChatGPT 镜像网站推荐：国内免费指南（支持 GPT-4 和 4o，无需翻墙）【2025年2月更新】
 
 >作者: chatgpt-china-site   
->更新: 2025/02/25  
+>更新: 2025/02/25   
 
 国内如何使用ChatGPT？我们为您整理了最新国内可用的 **ChatGPT 镜像网站，无需翻墙即可使用**。
 
@@ -27,7 +27,7 @@
 ## 国内推荐的 ChatGPT镜像网站：
 
 - [chat.yixiaai.com](https://chat.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持AI绘画、AI PPT
-- [chat.lify.vip](https://chat.yixiaai.com) - 支持 GPT4、4o 以及 o1
+- [chat.lify.vip](https://www.yixiaai.com) - 支持 GPT4、4o 以及 o1
 - [guide1.lanjing.ai](https://guide1.lanjing.ai) - 支持 GPT4、4o 支持AI绘画
 - [ai.lansejingyu.com](https://ai.lansejingyu.com) - 支持 GPT4、4o 支持 MJ 绘画
 - [lanjing.ai](https://lanjing.ai) - 支持 GPT4、4o和4o mini
