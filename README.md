@@ -1,14 +1,14 @@
 # ChatGPT 镜像网站推荐：国内免费指南（支持 GPT-4 和 4o，无需翻墙）【2025年6月更新】
 
 > 作者: chatgpt-china-site   
-> 更新: 2025/06/06    
+> 更新: 2025/06/22    
 
 国内如何使用ChatGPT？我们为您整理了最新国内可用的 **ChatGPT 镜像网站，无需翻墙即可使用**。
 
 这些镜像网站都支持 ChatGPT模型，还可以**无限制地使用 GPT-4、4o、o1**及其中文版功能。
 
 **ChatGPT 中文版**：**[xsimplechat.com](https://xsimplechat.com)**   
-**ChatGPT 镜像网站**：**[chat.lanjing.pro](https://chat.lanjing.pro)**
+**ChatGPT 镜像网站**：**[talk.lanjing.pro](https://talk.lanjing.pro)**
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 国内推荐的 ChatGPT镜像网站：
 
-- [chat.yixiaai.com](https://chat.lanjing.pro/) - 支持 GPT4、4o 以及 o1，支持AI绘画、AI PPT
+- [chat.yixiaai.com](https://talk.lanjing.pro/) - 支持 GPT4、4o 以及 o1，支持AI绘画、AI PPT
 - [chat.lify.vip](https://xsimplechat.com) - 支持 GPT4、4o 以及 o1
 - [guide1.lanjing.ai](https://chat.yixiaai.com) - 支持 GPT4、4o 支持AI绘画
 - [ai.lansejingyu.com](https://ai.lansejingyu.com) - 支持 GPT4、4o 支持 MJ 绘画
@@ -39,7 +39,7 @@
 
 ## ChatGPT 国内使用教程
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如 **[https://chat.lanjing.pro/](https://chat.lanjing.pro)**。
+1. **选择镜像站**：从推荐列表中选择一个站点，如 **[https://talk.lanjing.pro/](https://talk.lanjing.pro)**。
 2. **快速使用**：无需注册，按照提示使用微信扫码即可。
 3. **选择ChatGPT模型**：根据需要，切换选择GPT-4、GPT-3.5或GPT-4o、o1模型。
 4. **输入您的问题**：在聊天界面输入问题或任务，就能对话回复了~
